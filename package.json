@@ -1,0 +1,23 @@
+{
+  "name": "agenda",
+  "version": "1.0.0",
+  "description": "Project Irmans",
+  "author": "Angga Gantira",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/dotenv": "^1.4.0",
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "bulma-helpers": "^0.3.8",
+    "moment": "^2.24.0",
+    "nuxt": "^2.0.0",
+    "nuxt-buefy": "^0.3.2"
+  },
+  "devDependencies": {}
+}
