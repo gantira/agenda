@@ -16,7 +16,7 @@
     "@nuxtjs/pwa": "^3.0.0-0",
     "bulma-helpers": "^0.3.8",
     "moment": "^2.24.0",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-buefy": "^0.3.2"
   },
   "devDependencies": {}
